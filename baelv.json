@@ -1,0 +1,42 @@
+{
+"status": "show",
+"menu_name": "Tên menu",
+"history_name": "tên lịch sử vòng",
+"auto_name": "Tự Động",
+
+"version": "3.5.2540",
+
+"update_url": "link khi ấn cập nhật ",
+
+"telegram_url": "link nhóm tele",
+"zalo_url": "link box zalo",
+
+"announcement": "Chào mừng bạn đến với Speed mới nhất của thay tên vào đây. Chúc bạn chơi game vui vẻ!",
+
+"announcement_id": "thong_bao_001",
+
+"alert_title": "Thông Báo từ tên muốn thêm",
+
+"update_msg": "Đã có phiên bản mới (v%@). Vui lòng cập nhật để trải nghiệm tốt nhất.",
+
+"btn_update_now": "Cập Nhật Ngay",
+"btn_update_later": "Để Sau",
+"btn_understood": "Đã Hiểu",
+
+"language_default": "vi",
+
+"theme": {
+"mode": "neon",
+"main_color": "#00FF99",
+"button_color": "#007AFF",
+"text_color": "#FFFFFF",
+"background_alpha": 0.85
+},
+
+"speed": {
+"symbol": 9,
+"hammer": 36,
+"pig": 86,
+"spin": 288
+}
+}
