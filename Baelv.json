@@ -1,0 +1,42 @@
+{
+"status": "show",
+"menu_name": "Bae🐢LV",
+"history_name": "Bae🐢LV",
+"auto_name": "Tự Động",
+
+"version": "3.5.2540",
+
+"update_url": "https://www.facebook.com/share/1AmdG4DRy6/?mibextid=wwXIfr",
+
+"telegram_url": "https://www.facebook.com/share/1AmdG4DRy6/?mibextid=wwXIfr",
+"zalo_url": "https://zalo.me/g/fykbfv878",
+
+"announcement": "Chào mừng bạn đến với Speed mới nhất của Bae🐢LV. Chúc bạn chơi game vui vẻ!",
+
+"announcement_id": "thong_bao_001",
+
+"alert_title": "Thông Báo từ Bae🐢LV",
+
+"update_msg": "Đã có phiên bản mới (v%@). Vui lòng cập nhật để trải nghiệm tốt nhất.",
+
+"btn_update_now": "Cập Nhật Ngay",
+"btn_update_later": "Để Sau",
+"btn_understood": "Đã Hiểu",
+
+"language_default": "vi",
+
+"theme": {
+"mode": "neon",
+"main_color": "#00FF99",
+"button_color": "#007AFF",
+"text_color": "#FFFFFF",
+"background_alpha": 0.85
+},
+
+"speed": {
+"symbol": 9,
+"hammer": 36,
+"pig": 76,
+"spin": 108
+}
+}
