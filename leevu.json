@@ -1,0 +1,31 @@
+{
+  "status": "show",
+  "fps_name": "BAE🐢LV",
+  "menu_name": "BAE🐢LV",
+  "history_name": "BAE🐢LV",
+  "auto_name": "Tự Động",
+
+  "zalo_nht": "https://zalo.me/g/fykbfv878",
+  "zalo_url": "https://zalo.me/g/fykbfv878",
+  "telegram_url": "https://t.me/nhtspeed",
+  "zalo_group_url": "https://api.nhtspeed.io.vn/zalobox",
+
+  "version": "3.5.2540",
+  "update_url": "https://nhtspeed.io.vn",
+
+  "announcement": "Chào mừng bạn đến với Speed mới nhất của BAE🐢LV. Chúc bạn chơi game vui vẻ!",
+  "announcement_id": "thong_bao_001",
+
+  "alert_title": "Thông Báo BAE🐢LV",
+  "update_msg": "Đã có phiên bản mới (v%@). Vui lòng cập nhật để trải nghiệm tốt nhất.",
+  "btn_update_now": "Cập Nhật Ngay",
+  "btn_update_later": "Để Sau",
+  "btn_understood": "Đã Hiểu",
+
+  "speed": {
+    "symbol": 9,
+    "hammer": 39,
+    "pig": 79,
+    "spin": 108
+  }
+}
